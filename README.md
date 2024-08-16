@@ -17,7 +17,7 @@ You can say, A Software Engineer with industry experience building web services
 
 ### Find Me
 
-#### Portfolio: [https://portfolio.fazna.in/](https://portfolio.fazna.in/)
+#### Portfolio: [https://fazna.netlify.app/](fazna.netlify.app/)
 
 #### Blog Post: [Seo Tutorial](https://medium.com/@web3noob/search-engine-optimization-seo-with-nextjs-part-1-introduction-8ca0d2303ea9)
 <br />
